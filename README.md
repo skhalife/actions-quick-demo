@@ -39,7 +39,7 @@ https://github.com/actions/starter-workflows
 -------------
 
 # fib-tools
-Fib-tools is Actions example using a simple javascript program to calculate the Fibonacci sequence. 
+Fib-tools is an Actions example using a simple javascript program to calculate the Fibonacci sequence. 
 
 <!--
 ![](https://github.com/bbq-beets/fib-tools/workflows/CI/badge.svg) -->
