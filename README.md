@@ -1,8 +1,10 @@
 # Actions Resources
 
-Interested in finding out more about GitHub Actions?   
+Interested in finding out more about GitHub Actions?
 
 Checkout some of the resources below, and visit [GitHub Actions](https://github.com/features/actions) to stay up-to-date with the latest info 📣!
+
+If you have not heard of GitHub Actions, it is the workflow automation tool that can run anything on GitHub!
 
 ## Documentation
 1. [Core concepts for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/core-concepts-for-github-actions)
@@ -39,7 +41,7 @@ https://github.com/actions/starter-workflows
 -------------
 
 # fib-tools
-Fib-tools is an Actions example using a simple javascript program to calculate the Fibonacci sequence. 
+Fib-tools is an Actions example using a simple javascript program to calculate the Fibonacci sequence.
 
 <!--
 ![](https://github.com/bbq-beets/fib-tools/workflows/CI/badge.svg) -->
