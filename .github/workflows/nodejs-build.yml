@@ -1,8 +1,6 @@
 name: Node CI
 
-on: 
-  push:
-    branches: no-branch
+on: [push]
 
 jobs:
   build:
